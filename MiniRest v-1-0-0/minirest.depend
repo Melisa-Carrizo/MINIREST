@@ -1,0 +1,1643 @@
+# depslib dependency file v1.0
+315543600 source:e:\1er cuatrimestre\programacion\tpgrupal\minirest\pila.c
+	"pila.h"
+
+315543600 e:\1er cuatrimestre\programacion\tpgrupal\minirest\pila.h
+	<stdio.h>
+	<malloc.h>
+
+315543600 source:e:\c\tp final\minirest\pila.c
+	"pila.h"
+
+315543600 e:\c\tp final\minirest\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1715900985 source:e:\c\tp final\minirest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"pila.h"
+
+315543600 source:d:\c\tp final\minirest\pila.c
+	"pila.h"
+
+315543600 d:\c\tp final\minirest\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1715997208 source:d:\c\tp final\minirest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"pila.h"
+
+1716521305 source:c:\users\gamer\downloads\minirest\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"pila.h"
+
+315543600 c:\users\gamer\downloads\minirest\pila.h
+	<stdio.h>
+	<malloc.h>
+
+315543600 source:c:\users\gamer\downloads\minirest\pila.c
+	"pila.h"
+
+315543600 source:e:\c\codigo por si me mande cagadas\pila.c
+	"pila.h"
+
+315543600 e:\c\codigo por si me mande cagadas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1717544198 source:e:\c\codigo por si me mande cagadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"pila.h"
+	"Empleado.h"
+	"menu.h"
+
+1717546004 e:\c\codigo por si me mande cagadas\empleado.h
+
+1717546906 source:e:\c\codigo por si me mande cagadas\empleado.c
+	"Empleado.h"
+	<stdio.h>
+	"menu.h"
+
+1717519858 source:e:\c\codigo por si me mande cagadas\funcionesauxiliares.c
+	"funcionesAuxiliares.h"
+	"Empleado.h"
+	"stdio.h"
+
+1717512554 e:\c\codigo por si me mande cagadas\funcionesauxiliares.h
+
+1718057238 source:f:\c\codigo por si me mande cagadas\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"funcionesAuxiliares.h"
+
+1718057154 f:\c\codigo por si me mande cagadas\empleado.h
+
+1718047150 source:f:\c\codigo por si me mande cagadas\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+1718047074 f:\c\codigo por si me mande cagadas\funcionesauxiliares.h
+
+315543600 source:f:\c\codigo por si me mande cagadas\pila.c
+	"pila.h"
+
+315543600 f:\c\codigo por si me mande cagadas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718057940 source:f:\c\codigo por si me mande cagadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"pila.h"
+	"Empleado.h"
+	"menu.h"
+	"mesas.h"
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+
+1718058164 source:f:\c\codigo por si me mande cagadas\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mesas.h"
+	"mensajesError.h"
+
+1718058200 f:\c\codigo por si me mande cagadas\menu.h
+
+1717547246 e:\c\codigo por si me mande cagadas\menu.h
+
+1717547344 source:e:\c\codigo por si me mande cagadas\menu.c
+	"menu.h"
+	<stdio.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+
+1718046628 f:\c\codigo por si me mande cagadas\mensajeserror.h
+
+1718046638 source:f:\c\codigo por si me mande cagadas\mensajeserror.c
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718046598 f:\c\codigo por si me mande cagadas\mesas.h
+
+1718046634 source:f:\c\codigo por si me mande cagadas\mesas.c
+	"mesas.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1718057962 f:\c\codigo por si me mande cagadas\iniciosesion.h
+
+1718058032 source:f:\c\codigo por si me mande cagadas\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+
+1718071988 source:c:\users\gamer\downloads\codigo por si me mande cagadas\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718057962 c:\users\gamer\downloads\codigo por si me mande cagadas\iniciosesion.h
+
+1718069802 c:\users\gamer\downloads\codigo por si me mande cagadas\empleado.h
+
+1718058200 c:\users\gamer\downloads\codigo por si me mande cagadas\menu.h
+
+1718047074 c:\users\gamer\downloads\codigo por si me mande cagadas\funcionesauxiliares.h
+
+1718070354 source:c:\users\gamer\downloads\codigo por si me mande cagadas\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+1718071959 c:\users\gamer\downloads\codigo por si me mande cagadas\mensajeserror.h
+
+1718070338 source:c:\users\gamer\downloads\codigo por si me mande cagadas\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"mensajesError.h"
+
+1718066921 source:c:\users\gamer\downloads\codigo por si me mande cagadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"pila.h"
+	"Empleado.h"
+	"menu.h"
+	"mesas.h"
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+
+315543600 c:\users\gamer\downloads\codigo por si me mande cagadas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718046598 c:\users\gamer\downloads\codigo por si me mande cagadas\mesas.h
+
+1718071959 source:c:\users\gamer\downloads\codigo por si me mande cagadas\mensajeserror.c
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718046634 source:c:\users\gamer\downloads\codigo por si me mande cagadas\mesas.c
+	"mesas.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+315543600 source:c:\users\gamer\downloads\codigo por si me mande cagadas\pila.c
+	"pila.h"
+
+1718069802 source:c:\users\gamer\downloads\codigo por si me mande cagadas\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mesas.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718063275 source:c:\users\gamer\downloads\codigo por si me mande cagadas\mensajesaviso.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"mensajesAviso.h"
+	"funcionesAuxiliares.h"
+
+1718063094 c:\users\gamer\downloads\codigo por si me mande cagadas\mensajesaviso.h
+
+1718072765 source:c:\users\ciro\desktop\codigo por si me mande cagadas\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+1718072719 c:\users\ciro\desktop\codigo por si me mande cagadas\funcionesauxiliares.h
+
+1718071959 c:\users\ciro\desktop\codigo por si me mande cagadas\mensajeserror.h
+
+1718070338 source:c:\users\ciro\desktop\codigo por si me mande cagadas\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"mensajesError.h"
+
+1718057962 c:\users\ciro\desktop\codigo por si me mande cagadas\iniciosesion.h
+
+1718075679 c:\users\ciro\desktop\codigo por si me mande cagadas\empleado.h
+
+1718074154 c:\users\ciro\desktop\codigo por si me mande cagadas\menu.h
+
+1718072564 source:c:\users\ciro\desktop\codigo por si me mande cagadas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"pila.h"
+	"Empleado.h"
+	"menu.h"
+	"mesas.h"
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+
+315543600 c:\users\ciro\desktop\codigo por si me mande cagadas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718046598 c:\users\ciro\desktop\codigo por si me mande cagadas\mesas.h
+
+1718063275 source:c:\users\ciro\desktop\codigo por si me mande cagadas\mensajesaviso.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"mensajesAviso.h"
+	"funcionesAuxiliares.h"
+
+1718063094 c:\users\ciro\desktop\codigo por si me mande cagadas\mensajesaviso.h
+
+1718071959 source:c:\users\ciro\desktop\codigo por si me mande cagadas\mensajeserror.c
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718046634 source:c:\users\ciro\desktop\codigo por si me mande cagadas\mesas.c
+	"mesas.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+315543600 source:c:\users\ciro\desktop\codigo por si me mande cagadas\pila.c
+	"pila.h"
+
+1718074808 source:c:\users\ciro\desktop\codigo por si me mande cagadas\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718072993 source:c:\users\ciro\desktop\codigo por si me mande cagadas\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mesas.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718071258 source:c:\users\ciro\desktop\codigo por si me mande cagadas\productos.c
+	"Productos.h"
+	"funcionesAuxiliares.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1718065690 c:\users\ciro\desktop\codigo por si me mande cagadas\productos.h
+
+1718165222 source:c:\users\gamer\downloads\minirest actualizado 11-6\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718165012 c:\users\gamer\downloads\minirest actualizado 11-6\iniciosesion.h
+
+1718156454 c:\users\gamer\downloads\minirest actualizado 11-6\empleado.h
+
+1718074154 c:\users\gamer\downloads\minirest actualizado 11-6\menu.h
+
+1718165065 c:\users\gamer\downloads\minirest actualizado 11-6\funcionesauxiliares.h
+
+1718166757 c:\users\gamer\downloads\minirest actualizado 11-6\mensajeserror.h
+
+1718162953 c:\users\gamer\downloads\minirest actualizado 11-6\mensajesaviso.h
+
+1718172029 source:c:\users\gamer\downloads\minirest actualizado 11-6\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+1718165012 source:c:\users\gamer\downloads\minirest actualizado 11-6\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"mensajesError.h"
+
+1718170516 source:c:\users\gamer\downloads\minirest actualizado 11-6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"pila.h"
+	"Empleado.h"
+	"menu.h"
+	"mesas.h"
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+
+315543600 c:\users\gamer\downloads\minirest actualizado 11-6\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718046598 c:\users\gamer\downloads\minirest actualizado 11-6\mesas.h
+
+1718162953 source:c:\users\gamer\downloads\minirest actualizado 11-6\mensajesaviso.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"mensajesAviso.h"
+	"funcionesAuxiliares.h"
+
+1718166757 source:c:\users\gamer\downloads\minirest actualizado 11-6\mensajeserror.c
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718171743 source:c:\users\gamer\downloads\minirest actualizado 11-6\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mesas.h"
+	"Productos.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718168442 source:c:\users\gamer\downloads\minirest actualizado 11-6\mesas.c
+	"mesas.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+315543600 source:c:\users\gamer\downloads\minirest actualizado 11-6\pila.c
+	"pila.h"
+
+1718171863 source:c:\users\gamer\downloads\minirest actualizado 11-6\productos.c
+	"Productos.h"
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1718172029 c:\users\gamer\downloads\minirest actualizado 11-6\productos.h
+
+1718475691 source:c:\users\gamer\downloads\minirestayudatengolosojossecos\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718165012 c:\users\gamer\downloads\minirestayudatengolosojossecos\iniciosesion.h
+
+1718474255 c:\users\gamer\downloads\minirestayudatengolosojossecos\empleado.h
+
+1718074154 c:\users\gamer\downloads\minirestayudatengolosojossecos\menu.h
+
+1718485049 c:\users\gamer\downloads\minirestayudatengolosojossecos\funcionesauxiliares.h
+
+1718166757 c:\users\gamer\downloads\minirestayudatengolosojossecos\mensajeserror.h
+
+1718162953 c:\users\gamer\downloads\minirestayudatengolosojossecos\mensajesaviso.h
+
+1718485116 source:c:\users\gamer\downloads\minirestayudatengolosojossecos\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	<time.h>
+
+1718165012 source:c:\users\gamer\downloads\minirestayudatengolosojossecos\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"mensajesError.h"
+
+1718484872 source:c:\users\gamer\downloads\minirestayudatengolosojossecos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"pila.h"
+	"Empleado.h"
+	"menu.h"
+	"mesas.h"
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+
+315543600 c:\users\gamer\downloads\minirestayudatengolosojossecos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718473418 c:\users\gamer\downloads\minirestayudatengolosojossecos\mesas.h
+
+1718162953 source:c:\users\gamer\downloads\minirestayudatengolosojossecos\mensajesaviso.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"mensajesAviso.h"
+	"funcionesAuxiliares.h"
+
+1718166757 source:c:\users\gamer\downloads\minirestayudatengolosojossecos\mensajeserror.c
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718402572 source:c:\users\gamer\downloads\minirestayudatengolosojossecos\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mesas.h"
+	"Productos.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+	"ticket.h"
+
+1718172029 c:\users\gamer\downloads\minirestayudatengolosojossecos\productos.h
+
+1718475428 source:c:\users\gamer\downloads\minirestayudatengolosojossecos\mesas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mesas.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+315543600 source:c:\users\gamer\downloads\minirestayudatengolosojossecos\pila.c
+	"pila.h"
+
+1718394282 source:c:\users\gamer\downloads\minirestayudatengolosojossecos\productos.c
+	"Productos.h"
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1718485015 c:\users\gamer\downloads\minirestayudatengolosojossecos\ticket.h
+	"mesas.h"
+	"Productos.h"
+
+1718485015 source:c:\users\gamer\downloads\minirestayudatengolosojossecos\ticket.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ticket.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+1718475691 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718488082 c:\users\ciro\desktop\minirestayudatengolosojossecos\iniciosesion.h
+
+1718474255 c:\users\ciro\desktop\minirestayudatengolosojossecos\empleado.h
+
+1718413631 c:\users\ciro\desktop\minirestayudatengolosojossecos\menu.h
+
+1718485049 c:\users\ciro\desktop\minirestayudatengolosojossecos\funcionesauxiliares.h
+
+1718166757 c:\users\ciro\desktop\minirestayudatengolosojossecos\mensajeserror.h
+
+1718162953 c:\users\ciro\desktop\minirestayudatengolosojossecos\mensajesaviso.h
+
+1718488110 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"mensajesError.h"
+	"logs.h"
+
+1718162953 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\mensajesaviso.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"mensajesAviso.h"
+	"funcionesAuxiliares.h"
+
+1718487718 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\mensajeserror.c
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718486794 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mesas.h"
+	"Productos.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718473418 c:\users\ciro\desktop\minirestayudatengolosojossecos\mesas.h
+
+1718172029 c:\users\ciro\desktop\minirestayudatengolosojossecos\productos.h
+
+1718485675 c:\users\ciro\desktop\minirestayudatengolosojossecos\ticket.h
+	"mesas.h"
+	"Productos.h"
+	"fecha.h"
+
+1718475428 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\mesas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mesas.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+315543600 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\pila.c
+	"pila.h"
+
+315543600 c:\users\ciro\desktop\minirestayudatengolosojossecos\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718487686 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\productos.c
+	"Productos.h"
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1718487746 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\ticket.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ticket.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+
+1718482840 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\fecha.c
+	"fecha.h"
+	<time.h>
+
+1718482768 c:\users\ciro\desktop\minirestayudatengolosojossecos\fecha.h
+
+1718485381 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	<time.h>
+
+1718488010 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"pila.h"
+	"Empleado.h"
+	"menu.h"
+	"mesas.h"
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+
+1718483084 source:c:\users\ciro\desktop\minirestayudatengolosojossecos\logs.c
+	<stdio.h>
+	<stdlib.h>
+	"logs.h"
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+
+1718483122 c:\users\ciro\desktop\minirestayudatengolosojossecos\logs.h
+	"Empleado.h"
+	"fecha.h"
+
+1718475691 source:c:\users\gamer\downloads\minirest actualizado 15-6\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718488082 c:\users\gamer\downloads\minirest actualizado 15-6\iniciosesion.h
+
+1718474255 c:\users\gamer\downloads\minirest actualizado 15-6\empleado.h
+
+1718522791 c:\users\gamer\downloads\minirest actualizado 15-6\menu.h
+
+1718566383 c:\users\gamer\downloads\minirest actualizado 15-6\funcionesauxiliares.h
+
+1718562551 c:\users\gamer\downloads\minirest actualizado 15-6\mensajeserror.h
+
+1718561926 c:\users\gamer\downloads\minirest actualizado 15-6\mensajesaviso.h
+
+1718509928 source:c:\users\gamer\downloads\minirest actualizado 15-6\fecha.c
+	"fecha.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718482768 c:\users\gamer\downloads\minirest actualizado 15-6\fecha.h
+
+1718568820 source:c:\users\gamer\downloads\minirest actualizado 15-6\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	<time.h>
+
+1718488110 source:c:\users\gamer\downloads\minirest actualizado 15-6\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"mensajesError.h"
+	"logs.h"
+
+1718483122 c:\users\gamer\downloads\minirest actualizado 15-6\logs.h
+	"Empleado.h"
+	"fecha.h"
+
+1718483084 source:c:\users\gamer\downloads\minirest actualizado 15-6\logs.c
+	<stdio.h>
+	<stdlib.h>
+	"logs.h"
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+
+1718574243 source:c:\users\gamer\downloads\minirest actualizado 15-6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inicioSesion.h"
+
+315543600 c:\users\gamer\downloads\minirest actualizado 15-6\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718564418 c:\users\gamer\downloads\minirest actualizado 15-6\mesas.h
+
+1718561926 source:c:\users\gamer\downloads\minirest actualizado 15-6\mensajesaviso.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"mensajesAviso.h"
+	"funcionesAuxiliares.h"
+
+1718562551 source:c:\users\gamer\downloads\minirest actualizado 15-6\mensajeserror.c
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718565393 source:c:\users\gamer\downloads\minirest actualizado 15-6\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mesas.h"
+	"Productos.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718560819 c:\users\gamer\downloads\minirest actualizado 15-6\productos.h
+
+1718564418 source:c:\users\gamer\downloads\minirest actualizado 15-6\mesas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mesas.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+315543600 source:c:\users\gamer\downloads\minirest actualizado 15-6\pila.c
+	"pila.h"
+
+1718561665 source:c:\users\gamer\downloads\minirest actualizado 15-6\productos.c
+	"Productos.h"
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1718574748 source:c:\users\gamer\downloads\minirest actualizado 15-6\ticket.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ticket.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+	"mesas.h"
+	"mensajesAviso.h"
+
+1718572381 c:\users\gamer\downloads\minirest actualizado 15-6\ticket.h
+	"mesas.h"
+	"Productos.h"
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718475691 source:c:\users\ciro\desktop\minirestyanoquieromas\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718488082 c:\users\ciro\desktop\minirestyanoquieromas\iniciosesion.h
+
+1718474255 c:\users\ciro\desktop\minirestyanoquieromas\empleado.h
+
+1718522791 c:\users\ciro\desktop\minirestyanoquieromas\menu.h
+
+1718575932 c:\users\ciro\desktop\minirestyanoquieromas\funcionesauxiliares.h
+
+1718575678 c:\users\ciro\desktop\minirestyanoquieromas\mensajeserror.h
+
+1718561926 c:\users\ciro\desktop\minirestyanoquieromas\mensajesaviso.h
+
+1718509928 source:c:\users\ciro\desktop\minirestyanoquieromas\fecha.c
+	"fecha.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718482768 c:\users\ciro\desktop\minirestyanoquieromas\fecha.h
+
+1718575887 source:c:\users\ciro\desktop\minirestyanoquieromas\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	<time.h>
+
+1718488110 source:c:\users\ciro\desktop\minirestyanoquieromas\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"mensajesError.h"
+	"logs.h"
+
+1718483122 c:\users\ciro\desktop\minirestyanoquieromas\logs.h
+	"Empleado.h"
+	"fecha.h"
+
+1718483084 source:c:\users\ciro\desktop\minirestyanoquieromas\logs.c
+	<stdio.h>
+	<stdlib.h>
+	"logs.h"
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+
+1718574243 source:c:\users\ciro\desktop\minirestyanoquieromas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inicioSesion.h"
+
+1718561926 source:c:\users\ciro\desktop\minirestyanoquieromas\mensajesaviso.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"mensajesAviso.h"
+	"funcionesAuxiliares.h"
+
+1718565393 source:c:\users\ciro\desktop\minirestyanoquieromas\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mesas.h"
+	"Productos.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718564418 c:\users\ciro\desktop\minirestyanoquieromas\mesas.h
+
+1718560819 c:\users\ciro\desktop\minirestyanoquieromas\productos.h
+
+1718564418 source:c:\users\ciro\desktop\minirestyanoquieromas\mesas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"mesas.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+315543600 source:c:\users\ciro\desktop\minirestyanoquieromas\pila.c
+	"pila.h"
+
+315543600 c:\users\ciro\desktop\minirestyanoquieromas\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718561665 source:c:\users\ciro\desktop\minirestyanoquieromas\productos.c
+	"Productos.h"
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1718574748 source:c:\users\ciro\desktop\minirestyanoquieromas\ticket.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ticket.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+	"mesas.h"
+	"mensajesAviso.h"
+
+1718572381 c:\users\ciro\desktop\minirestyanoquieromas\ticket.h
+	"mesas.h"
+	"Productos.h"
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718575666 source:c:\users\ciro\desktop\minirestyanoquieromas\mensajeserror.c
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718509928 source:c:\users\ciro\desktop\minirest casi listo\fecha.c
+	"fecha.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718583876 c:\users\ciro\desktop\minirest casi listo\fecha.h
+
+1718619066 source:c:\users\ciro\desktop\minirest casi listo\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+	<time.h>
+
+1718618302 c:\users\ciro\desktop\minirest casi listo\funcionesauxiliares.h
+	"fecha.h"
+
+1718575678 c:\users\ciro\desktop\minirest casi listo\mensajeserror.h
+
+1718612229 source:c:\users\ciro\desktop\minirest casi listo\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"logs.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+1718604896 c:\users\ciro\desktop\minirest casi listo\iniciosesion.h
+
+1718565218 c:\users\ciro\desktop\minirest casi listo\empleado.h
+
+1718612079 c:\users\ciro\desktop\minirest casi listo\menu.h
+
+1718584381 c:\users\ciro\desktop\minirest casi listo\logs.h
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"fecha.h"
+	"pila.h"
+
+1718585309 source:c:\users\ciro\desktop\minirest casi listo\logs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"logs.h"
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+
+1718602524 source:c:\users\ciro\desktop\minirest casi listo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inicioSesion.h"
+
+1718618706 source:c:\users\ciro\desktop\minirest casi listo\mensajesaviso.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"mensajesAviso.h"
+	"funcionesAuxiliares.h"
+
+1718616482 c:\users\ciro\desktop\minirest casi listo\mensajesaviso.h
+
+1718575666 source:c:\users\ciro\desktop\minirest casi listo\mensajeserror.c
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718619228 source:c:\users\ciro\desktop\minirest casi listo\mesas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	"mesas.h"
+
+1718610442 c:\users\ciro\desktop\minirest casi listo\mesas.h
+
+315543600 source:c:\users\ciro\desktop\minirest casi listo\pila.c
+	"pila.h"
+
+315543600 c:\users\ciro\desktop\minirest casi listo\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718617319 source:c:\users\ciro\desktop\minirest casi listo\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Productos.h"
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+
+1718610694 c:\users\ciro\desktop\minirest casi listo\productos.h
+
+1718619285 source:c:\users\ciro\desktop\minirest casi listo\ticket.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ticket.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+	"mesas.h"
+	"mensajesAviso.h"
+
+1718616199 c:\users\ciro\desktop\minirest casi listo\ticket.h
+	"mesas.h"
+	"Productos.h"
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718618285 source:c:\users\ciro\desktop\minirest casi listo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Empleado.h"
+	"mesas.h"
+	"Productos.h"
+	"logs.h"
+	"fecha.h"
+	"inicioSesion.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+	"ticket.h"
+
+1718617956 source:c:\users\ciro\desktop\minirest casi listo\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718661955 source:c:\users\gamer\downloads\minirest version final\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718604896 c:\users\gamer\downloads\minirest version final\iniciosesion.h
+
+1718565218 c:\users\gamer\downloads\minirest version final\empleado.h
+
+1718666196 c:\users\gamer\downloads\minirest version final\menu.h
+
+1718618302 c:\users\gamer\downloads\minirest version final\funcionesauxiliares.h
+	"fecha.h"
+
+1718583876 c:\users\gamer\downloads\minirest version final\fecha.h
+
+1718575678 c:\users\gamer\downloads\minirest version final\mensajeserror.h
+
+1718666134 c:\users\gamer\downloads\minirest version final\mensajesaviso.h
+
+1718509928 source:c:\users\gamer\downloads\minirest version final\fecha.c
+	"fecha.h"
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718664243 source:c:\users\gamer\downloads\minirest version final\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+	<time.h>
+
+1718666836 source:c:\users\gamer\downloads\minirest version final\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"logs.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+1718584381 c:\users\gamer\downloads\minirest version final\logs.h
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"fecha.h"
+	"pila.h"
+
+315543600 c:\users\gamer\downloads\minirest version final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718585309 source:c:\users\gamer\downloads\minirest version final\logs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"logs.h"
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+
+1718602524 source:c:\users\gamer\downloads\minirest version final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inicioSesion.h"
+
+1718667293 source:c:\users\gamer\downloads\minirest version final\mensajesaviso.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"mensajesAviso.h"
+	"funcionesAuxiliares.h"
+
+1718666836 source:c:\users\gamer\downloads\minirest version final\mensajeserror.c
+	"mensajesError.h"
+	"funcionesAuxiliares.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718667429 source:c:\users\gamer\downloads\minirest version final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"Empleado.h"
+	"mesas.h"
+	"Productos.h"
+	"logs.h"
+	"fecha.h"
+	"inicioSesion.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+	"ticket.h"
+
+1718666203 c:\users\gamer\downloads\minirest version final\mesas.h
+
+1718667647 c:\users\gamer\downloads\minirest version final\productos.h
+
+1718616199 c:\users\gamer\downloads\minirest version final\ticket.h
+	"mesas.h"
+	"Productos.h"
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718666202 source:c:\users\gamer\downloads\minirest version final\mesas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	"mesas.h"
+
+315543600 source:c:\users\gamer\downloads\minirest version final\pila.c
+	"pila.h"
+
+1718666212 source:c:\users\gamer\downloads\minirest version final\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Productos.h"
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+
+1718664866 source:c:\users\gamer\downloads\minirest version final\ticket.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ticket.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+	"mesas.h"
+	"mensajesAviso.h"
+
+1718683568 source:c:\users\gamer\downloads\minirest v-1-0-0\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	"menu.h"
+
+1718604896 c:\users\gamer\downloads\minirest v-1-0-0\iniciosesion.h
+
+1718670539 c:\users\gamer\downloads\minirest v-1-0-0\empleado.h
+
+1718666196 c:\users\gamer\downloads\minirest v-1-0-0\menu.h
+
+1718681262 c:\users\gamer\downloads\minirest v-1-0-0\funcionesauxiliares.h
+	"fecha.h"
+
+1718583876 c:\users\gamer\downloads\minirest v-1-0-0\fecha.h
+
+1718672031 c:\users\gamer\downloads\minirest v-1-0-0\mensajeserror.h
+
+1718670152 c:\users\gamer\downloads\minirest v-1-0-0\mensajesaviso.h
+
+1718670618 source:c:\users\gamer\downloads\minirest v-1-0-0\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"fecha.h"
+
+1718682031 source:c:\users\gamer\downloads\minirest v-1-0-0\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"logs.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718683977 c:\users\gamer\downloads\minirest v-1-0-0\logs.h
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"fecha.h"
+	"pila.h"
+
+315543600 c:\users\gamer\downloads\minirest v-1-0-0\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718684611 source:c:\users\gamer\downloads\minirest v-1-0-0\logs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"fecha.h"
+	"logs.h"
+	"mensajesError.h"
+
+1718679544 source:c:\users\gamer\downloads\minirest v-1-0-0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inicioSesion.h"
+
+1718672031 source:c:\users\gamer\downloads\minirest v-1-0-0\mensajeserror.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+1718666202 source:c:\users\gamer\downloads\minirest v-1-0-0\mesas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	"mesas.h"
+
+1718672473 c:\users\gamer\downloads\minirest v-1-0-0\mesas.h
+
+315543600 source:c:\users\gamer\downloads\minirest v-1-0-0\pila.c
+	"pila.h"
+
+1718685908 source:c:\users\gamer\downloads\minirest v-1-0-0\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Productos.h"
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+
+1718667647 c:\users\gamer\downloads\minirest v-1-0-0\productos.h
+
+1718685733 source:c:\users\gamer\downloads\minirest v-1-0-0\ticket.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ticket.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+	"mesas.h"
+	"mensajesAviso.h"
+
+1718672705 c:\users\gamer\downloads\minirest v-1-0-0\ticket.h
+	"mesas.h"
+	"Productos.h"
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718684611 source:c:\users\gamer\downloads\minirest v-1-0-0\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funcionesAuxiliares.h"
+	"fecha.h"
+	"mensajesError.h"
+
+1718671064 source:c:\users\gamer\downloads\minirest v-1-0-0\mensajesaviso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"menu.h"
+
+1718684611 source:c:\users\gamer\downloads\minirest v-1-0-0\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"fecha.h"
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"logs.h"
+	"menu.h"
+	"mesas.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	"Productos.h"
+	"ticket.h"
+
+1718686207 source:c:\users\ciro\desktop\minirest v-1-0-0\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	"menu.h"
+
+1718670539 c:\users\ciro\desktop\minirest v-1-0-0\empleado.h
+
+1718681262 c:\users\ciro\desktop\minirest v-1-0-0\funcionesauxiliares.h
+	"fecha.h"
+
+1718583876 c:\users\ciro\desktop\minirest v-1-0-0\fecha.h
+
+1718604896 c:\users\ciro\desktop\minirest v-1-0-0\iniciosesion.h
+
+1718670152 c:\users\ciro\desktop\minirest v-1-0-0\mensajesaviso.h
+
+1718672031 c:\users\ciro\desktop\minirest v-1-0-0\mensajeserror.h
+
+1718666196 c:\users\ciro\desktop\minirest v-1-0-0\menu.h
+
+1718670618 source:c:\users\ciro\desktop\minirest v-1-0-0\fecha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"fecha.h"
+
+1718684611 source:c:\users\ciro\desktop\minirest v-1-0-0\funcionesauxiliares.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funcionesAuxiliares.h"
+	"fecha.h"
+	"mensajesError.h"
+
+1718682031 source:c:\users\ciro\desktop\minirest v-1-0-0\iniciosesion.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"inicioSesion.h"
+	"Empleado.h"
+	"menu.h"
+	"logs.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"mensajesAviso.h"
+
+1718683977 c:\users\ciro\desktop\minirest v-1-0-0\logs.h
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"fecha.h"
+	"pila.h"
+
+315543600 c:\users\ciro\desktop\minirest v-1-0-0\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718687100 source:c:\users\ciro\desktop\minirest v-1-0-0\logs.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+	"funcionesAuxiliares.h"
+	"fecha.h"
+	"logs.h"
+	"mensajesError.h"
+
+1718679544 source:c:\users\ciro\desktop\minirest v-1-0-0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inicioSesion.h"
+
+1718671064 source:c:\users\ciro\desktop\minirest v-1-0-0\mensajesaviso.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"menu.h"
+
+1718672031 source:c:\users\ciro\desktop\minirest v-1-0-0\mensajeserror.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+
+1718686875 source:c:\users\ciro\desktop\minirest v-1-0-0\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"fecha.h"
+	"funcionesAuxiliares.h"
+	"inicioSesion.h"
+	"logs.h"
+	"menu.h"
+	"mesas.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	"Productos.h"
+	"ticket.h"
+
+1718672473 c:\users\ciro\desktop\minirest v-1-0-0\mesas.h
+
+1718667647 c:\users\ciro\desktop\minirest v-1-0-0\productos.h
+
+1718672705 c:\users\ciro\desktop\minirest v-1-0-0\ticket.h
+	"mesas.h"
+	"Productos.h"
+	"fecha.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1718666202 source:c:\users\ciro\desktop\minirest v-1-0-0\mesas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+	"mesas.h"
+
+315543600 source:c:\users\ciro\desktop\minirest v-1-0-0\pila.c
+	"pila.h"
+
+1718685908 source:c:\users\ciro\desktop\minirest v-1-0-0\productos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"Productos.h"
+	"funcionesAuxiliares.h"
+	"mensajesAviso.h"
+	"mensajesError.h"
+
+1718687464 source:c:\users\ciro\desktop\minirest v-1-0-0\ticket.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"ticket.h"
+	"funcionesAuxiliares.h"
+	"mensajesError.h"
+	"fecha.h"
+	"mesas.h"
+	"mensajesAviso.h"
+

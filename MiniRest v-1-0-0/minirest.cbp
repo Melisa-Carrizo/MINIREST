@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="minirest" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/minirest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/minirest" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Empleado.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Empleado.h" />
+		<Unit filename="Productos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Productos.h" />
+		<Unit filename="fecha.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fecha.h" />
+		<Unit filename="funcionesAuxiliares.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="funcionesAuxiliares.h" />
+		<Unit filename="inicioSesion.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="inicioSesion.h" />
+		<Unit filename="logs.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="logs.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mensajesAviso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mensajesAviso.h" />
+		<Unit filename="mensajesError.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mensajesError.h" />
+		<Unit filename="menu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="menu.h" />
+		<Unit filename="mesas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mesas.h" />
+		<Unit filename="pila.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="pila.h" />
+		<Unit filename="ticket.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ticket.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
